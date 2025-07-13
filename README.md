@@ -1,4 +1,4 @@
-# Handwritten-Digit-Recognization-using-ML
+# 🤖 Handwritten-Digit-Recognization-using-ML
 This project is a **Handwritten Digit Recognition Web Application** built using **PyTorch** and **Flask**. It leverages a **Convolutional Neural Network (CNN)** to accurately predict handwritten digits drawn by users through a web interface. The application also provides **interpretability features**, showing the model's confidence in its predictions and a visual representation of how the model processes the input.
 
 -----
